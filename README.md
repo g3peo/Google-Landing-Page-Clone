@@ -1,2 +1,5 @@
 # Google-Landing-Page-Clone-2025-
-A Simple Google Landing Page Clone, inspired to create this from the CodeFiction YouTube Channel. 
+An ultra-basic Google Landing Page Clone, inspired to create this from the CodeFiction YouTube Channel. 
+
+[9/1/25 Notes]
+I haven't learned JavaScript nor any of the surrounding frameworks. This clone is simply meant to utilize what i've leanred from freeCodeCamp's Responsive Web Design course, along with other Resources and Tools.
